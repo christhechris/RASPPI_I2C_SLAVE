@@ -1,0 +1,7 @@
+picamera
+vcgencmd
+libscrc
+numpy
+ExifRead
+aenum
+pigpio
